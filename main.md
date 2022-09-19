@@ -1,0 +1,1 @@
+[Математическая статистика](mathematical_statistic/main.md)
