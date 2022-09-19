@@ -4,7 +4,6 @@
 - [Алгебра](stub.md)
 - [Геометрия](stub.md)
 - Математический анализ
-  - [Теория рядов](series_theory/main.md)
   - [Теория множеств](set_theory/main.md)
 - [Теория вероятностей](probability_theory/main.md)
 - [Математическая статистика](mathematical_statistic/main.md)
